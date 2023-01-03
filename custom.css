@@ -1,0 +1,51 @@
+.btn{
+    height: 30px;
+    
+    border-radius: 50px;
+    outline: none;
+    border: 2px solid rgb(248, 29, 39);
+    
+    color: white;
+    
+}
+.fa-brands{
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    border: 1px solid blue;
+    outline: none;
+    font-size: 15px;
+    padding: 3px;
+    
+}
+.fa-brands{
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    border: 1px solid lightblue;
+    outline: none;
+    font-size: 12px;
+    padding: 3px;
+}
+.navbar{
+    font-size: 15px;
+    border: 1px solid black;
+    color: black;
+    background-color: lightgray;
+    
+}
+.nav-link{
+    color: black;
+}
+.ind_logo{
+    
+    background-image: url('img/flag-400.png');
+background-size: contain;
+height: 15px;
+display: inline-block;
+background-repeat: no-repeat;
+width: 22px;
+}
+.fixed_height{
+    height: 30px;
+}
